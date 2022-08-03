@@ -1,0 +1,39 @@
+.title,.vencedor {
+    text-align: center;
+    color: white;
+}
+
+.player img{
+    max-width: 100px;
+    opacity: 0.3;
+    cursor: pointer;
+    background-color: cornflowerblue;
+}
+
+.player-dois img{
+    max-width: 100px;
+    opacity: 0.3;
+    cursor: pointer;
+    background-color: crimson;
+}
+
+.jogo{
+    display: flex;
+    background-color: gray;
+}
+
+.player{
+    width: 50%;
+}
+
+.player-dois{
+    width: 50%;
+}
+
+* {
+    text-align: center;
+}
+
+.topo{
+    background-color: gray;
+}
